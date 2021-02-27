@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Add new rules for ignore files and directories
+/env
+/venv
+.idea
+.vscode
+/media/
+[a-z].png
