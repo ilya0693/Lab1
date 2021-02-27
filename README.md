@@ -1,6 +1,6 @@
 # Lab1
 
-## Alt-Gitignore file
+### .gitignore file
 
 To .gitignore file was add comment and other arguments:
 # Add new rules for ignore files and directories
@@ -11,9 +11,9 @@ To .gitignore file was add comment and other arguments:
 - /media/
 - [a-z].png
 
-## Alt-quadratic equation file
+### quadratic equation file
 
-###Changes
+#### Changes
 1. Created file 'quedratic equation.py' and added code
 2. Change comments for input data (for 'a', 'b' and 'c')
 3. Удаление решения по сокращенной формуле
